@@ -1,0 +1,16 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Curso Pro JavaScript",
+  "license": "MIT",
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Carlos Villalobos",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
